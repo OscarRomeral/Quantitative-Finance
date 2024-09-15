@@ -4,14 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
-pandas-datareader = "*"
-numpy = "*"
-matplotlib = "*"
-yfinance = "*"
-jupyter = "*"
-ipykernel = "*"
-fredapi = "*"
 
 [dev-packages]
 
